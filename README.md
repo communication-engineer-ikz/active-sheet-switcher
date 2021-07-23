@@ -1,4 +1,4 @@
-# DaybyDaySchedule
+# Active Sheet Switcher
 ## 概要
 ツールバーにシート切り替えボタンを追加する。
 
